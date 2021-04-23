@@ -8,7 +8,6 @@
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href="https://discord.gg/88r2ShB" target="_blank">Xensis Bots</a>
 
 ## Getting Started
 
