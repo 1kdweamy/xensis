@@ -58,7 +58,7 @@ Step 7.
 
 ## Deployment
 
-If it prompts for an authorization code, get the code from <a href="https://github.com/KaosDrip/Xensis/wiki/Authorization-Code" target="_blank">here</a>
+If it prompts for an authorization code, get the code from <a href="https://github.com/1kdweamy/xensis/wiki/Auth-Code" target="_blank">here</a>
 
 
 
